@@ -1,0 +1,273 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NCSC-NL repository",
+          "description": "National Cyber Security Centrum list of vulnerable/non-vulnerable software.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-15T23:59:35Z",
+            "owner": "NCSC-NL",
+            "repo": "log4shell",
+            "stars": 1883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CISA",
+          "description": "CISA list of vulnerable software.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-11-09T20:00:14Z",
+            "owner": "cisagov",
+            "repo": "log4j-affected-db",
+            "stars": 1124
+          }
+        }
+      ],
+      "title": "Vulnerable Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Community Sourced Log4J Attack Surface",
+          "description": "List of Log4j attack vectors in popular manufacturers' products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-13T19:22:58Z",
+            "owner": "YfryTchsGD",
+            "repo": "Log4jAttackSurface",
+            "stars": 2069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash IOC scanner",
+          "description": "Latest Fenrir supports checking for log4shell compromise and vulnerability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-12T09:33:35Z",
+            "owner": "Neo23x0",
+            "repo": "Fenrir",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log4shell-detector",
+          "description": "Checks logs for exploitation attempts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-12T09:31:45Z",
+            "owner": "Neo23x0",
+            "repo": "log4shell-detector",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log4j-detector",
+          "description": "Detects vulnerable log4j versions on your file-system within any application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-10T18:44:50Z",
+            "owner": "mergebase",
+            "repo": "log4j-detector",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hotpatch tool",
+          "description": "JVM level hotpatch tool from AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-24T02:25:53Z",
+            "owner": "corretto",
+            "repo": "hotpatch-for-apache-log4j2",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curated Intelligence Trust Group",
+          "description": "Aggregated list of indicators of compromise feeds and threat reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-04T14:30:46Z",
+            "owner": "curated-intel",
+            "repo": "Log4Shell-IOCs",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log4jshell-bytecode-detector from CodeShield",
+          "description": "Analyses jar files and detects the vulnerability on a class file level. The repository additionally contains a list of Artifacts on Maven Central that are also affected.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-23T19:10:53Z",
+            "owner": "CodeShield-Security",
+            "repo": "Log4JShell-Bytecode-Detector",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploit Strings data",
+          "description": "JNDI exploit strings seen in the wild by Rapid7.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-10-04T13:15:18Z",
+            "owner": "rapid7",
+            "repo": "data",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threatview IP list",
+          "description": "List of IP addresses currently exploiting log4shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-19T12:42:02Z",
+            "owner": "Malwar3Ninja",
+            "repo": "Exploitation-of-Log4j2-CVE-2021-44228",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LizardLabs query tool",
+          "description": "Search for vulnerable jar files using MS Log Parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-11T01:57:59Z",
+            "owner": "lizardlabs",
+            "repo": "Log-Parser-Lizard-Queries",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS daemonset",
+          "description": "Daemonset from AWS to mitigate vulnerable instances in Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-08-26T14:56:01Z",
+            "owner": "aws-samples",
+            "repo": "kubernetes-log4j-cve-2021-44228-node-agent",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Detection & Remediation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Log4Shell vulnerable Java application",
+          "description": "Spring Boot web application vulnerable to Log4shell for easy reproduction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-26T03:16:26Z",
+            "owner": "christophetd",
+            "repo": "log4shell-vulnerable-app",
+            "stars": 1140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log4Shell PoC",
+          "description": "Full stack demo including Java LDAP and HTTP servers and vulnerable Java client. NOTE: It's part of the larger repo. Look at the module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T18:51:27Z",
+            "owner": "snyk-labs",
+            "repo": "java-goof",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analysis",
+          "description": "of the Log4Shell vulnerability in addition to protection codes and unit tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-01-22T08:14:16Z",
+            "owner": "righettod",
+            "repo": "log4shell-analysis",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tool",
+          "description": "to retrieve the payload from a server delivering Log4Shell payloads.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-12-28T10:09:31Z",
+            "owner": "righettod",
+            "repo": "log4shell-payload-grabber",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Examples & Proofs of Concept"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:06:21.634Z",
+    "original_repository": "snyk-labs/awesome-log4shell",
+    "original_repository_sha": "002100dfd9c778f52c9a1c957762e52e3a55ac0f",
+    "enhanced_repository": "enhansome/enhansome-log4shell",
+    "enhanced_repository_description": null,
+    "title": "Awesome Log4Shell with stars"
+  }
+}
