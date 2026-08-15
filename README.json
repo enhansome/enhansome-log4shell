@@ -28,7 +28,7 @@
             "last_commit": "2022-11-09T20:00:14Z",
             "owner": "cisagov",
             "repo": "log4j-affected-db",
-            "stars": 1124
+            "stars": 1123
           }
         }
       ],
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:03:37.740Z",
+    "last_updated": "2026-08-15T10:31:23.076Z",
     "original_repository": "snyk-labs/awesome-log4shell",
     "original_repository_sha": "002100dfd9c778f52c9a1c957762e52e3a55ac0f",
     "enhanced_repository": "enhansome/enhansome-log4shell",
