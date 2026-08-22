@@ -53,7 +53,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 * [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) ⭐ 2,069 | 🐛 44 | 📅 2021-12-13 - List of Log4j attack vectors in popular manufacturers' products.
 * [Bash IOC scanner](https://github.com/Neo23x0/Fenrir) ⭐ 776 | 🐛 1 | 🌐 Shell | 📅 2022-02-12 - Latest Fenrir supports checking for log4shell compromise and vulnerability.
-* [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) ⭐ 725 | 🐛 6 | 🌐 Python | 📅 2022-02-12 - Checks logs for exploitation attempts.
+* [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) ⭐ 724 | 🐛 6 | 🌐 Python | 📅 2022-02-12 - Checks logs for exploitation attempts.
 * [log4j-detector](https://github.com/mergebase/log4j-detector) ⭐ 640 | 🐛 41 | 🌐 Java | 📅 2022-03-10 - Detects vulnerable log4j versions on your file-system within any application.
 * [Hotpatch tool](https://github.com/corretto/hotpatch-for-apache-log4j2) ⭐ 497 | 🐛 8 | 🌐 Java | 📅 2022-10-24 - JVM level hotpatch tool from AWS.
 * [Curated Intelligence Trust Group](https://github.com/curated-intel/Log4Shell-IOCs) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2022-03-04 - Aggregated list of indicators of compromise feeds and threat reports.
@@ -112,4 +112,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
