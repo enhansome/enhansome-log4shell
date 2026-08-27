@@ -275,9 +275,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:43:57.210Z",
-    "original_repository": "snyk-labs/awesome-log4shell",
-    "original_repository_id": 437892216,
+    "last_updated": "2026-08-27T11:53:13.468Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 437892216,
+      "language": null,
+      "last_commit": "2022-08-25T08:27:11Z",
+      "owner": "snyk-labs",
+      "repo": "awesome-log4shell",
+      "stars": 231
+    },
     "original_repository_sha": "002100dfd9c778f52c9a1c957762e52e3a55ac0f",
     "enhanced_repository": "enhansome/enhansome-log4shell",
     "enhanced_repository_description": null,
