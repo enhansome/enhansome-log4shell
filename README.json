@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Operational information regarding the log4shell vulnerabilities in the Log4j logging library.",
+            "homepage": null,
             "id": 437470348,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-15T23:59:35Z",
+            "open_issues": 0,
             "owner": "NCSC-NL",
             "repo": "log4shell",
-            "stars": 1883
+            "stars": 1883,
+            "topics": [
+              "cve-2021-4104",
+              "cve-2021-44228",
+              "cve-2021-45046",
+              "cve-2021-45105",
+              "log4j",
+              "log4shell",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A community sourced list of log4j-affected software",
+            "homepage": null,
             "id": 437915726,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2022-11-09T20:00:14Z",
+            "open_issues": 11,
             "owner": "cisagov",
             "repo": "log4j-affected-db",
-            "stars": 1123
+            "stars": 1123,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         }
@@ -48,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 436927510,
             "language": null,
+            "license": null,
             "last_commit": "2021-12-13T19:22:58Z",
+            "open_issues": 44,
             "owner": "YfryTchsGD",
             "repo": "Log4jAttackSurface",
-            "stars": 2069
+            "stars": 2069,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -64,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Bash IOC Scanner",
+            "homepage": null,
             "id": 43861569,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-02-12T09:33:35Z",
+            "open_issues": 1,
             "owner": "Neo23x0",
             "repo": "Fenrir",
-            "stars": 776
+            "stars": 776,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -80,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detector for Log4Shell exploitation attempts",
+            "homepage": null,
             "id": 437264961,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-12T09:31:45Z",
+            "open_issues": 6,
             "owner": "Neo23x0",
             "repo": "log4shell-detector",
-            "stars": 724
+            "stars": 724,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -96,12 +129,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A public open sourced tool.  Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!  TAG_OS_TOOL, OWNER_KELLY, DC_PUBLIC",
+            "homepage": null,
             "id": 437419010,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-10T18:44:50Z",
+            "open_issues": 41,
             "owner": "mergebase",
             "repo": "log4j-detector",
-            "stars": 640
+            "stars": 640,
+            "topics": [
+              "cve-2021-44228",
+              "cve-2021-45046",
+              "cve-2021-45105",
+              "cybersecurity",
+              "detector",
+              "log4j",
+              "log4shell",
+              "pentest",
+              "sca",
+              "scanner",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -112,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An  agent to hotpatch the log4j RCE from CVE-2021-44228.",
+            "homepage": null,
             "id": 437426386,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-24T02:25:53Z",
+            "open_issues": 8,
             "owner": "corretto",
             "repo": "hotpatch-for-apache-log4j2",
-            "stars": 497
+            "stars": 497,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -128,12 +183,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of intelligence about Log4Shell and its exploitation activity. ",
+            "homepage": null,
             "id": 437595483,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-04T14:30:46Z",
+            "open_issues": 0,
             "owner": "curated-intel",
             "repo": "Log4Shell-IOCs",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "cobalt-strike",
+              "cti",
+              "cve-2021-44228",
+              "cybersecurity",
+              "ioc",
+              "java",
+              "khonsari",
+              "kinsing",
+              "kirabash",
+              "log4j",
+              "log4j2",
+              "log4shell",
+              "m8220",
+              "mirai",
+              "muhstik",
+              "sitesloader",
+              "swrort",
+              "threatintel",
+              "threatintelligence",
+              "ttp"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -144,12 +225,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local Bytecode Scanner for the Log4JShell Vulnerability (CVE-2021-44228)",
+            "homepage": "https://codeshield.io",
             "id": 437526168,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-02-23T19:10:53Z",
+            "open_issues": 0,
             "owner": "CodeShield-Security",
             "repo": "Log4JShell-Bytecode-Detector",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "bytecode",
+              "cve-2021-44228",
+              "log4j2",
+              "log4jshell",
+              "log4shell",
+              "scanner",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -160,12 +254,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 60369771,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-10-04T13:15:18Z",
+            "open_issues": 2,
             "owner": "rapid7",
             "repo": "data",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -176,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228 ",
+            "homepage": null,
             "id": 437550473,
             "language": null,
+            "license": null,
             "last_commit": "2021-12-19T12:42:02Z",
+            "open_issues": 0,
             "owner": "Malwar3Ninja",
             "repo": "Exploitation-of-Log4j2-CVE-2021-44228",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -192,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse raw logs using Microsoft Log Parser and Log Parser Lizard. Find samples here for IIS logs, W3C logs, log4net logs, CSV logs, Windows Event logs, Active Diretory, Text files, etc... Find out more about LPL on https://www.lizard-labs.com/log_parser_lizard.aspx",
+            "homepage": "http://www.lizard-labs.com/log_parser_lizard.aspx",
             "id": 84952122,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2021-12-11T01:57:59Z",
+            "open_issues": 0,
             "owner": "lizardlabs",
             "repo": "Log-Parser-Lizard-Queries",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -208,12 +317,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 438761150,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-26T14:56:01Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "kubernetes-log4j-cve-2021-44228-node-agent",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         }
@@ -230,12 +344,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
+            "homepage": null,
             "id": 436974241,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T03:16:26Z",
+            "open_issues": 1,
             "owner": "christophetd",
             "repo": "log4shell-vulnerable-app",
-            "stars": 1140
+            "stars": 1140,
+            "topics": [
+              "log4shell"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -246,12 +367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94013538,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-05T18:51:27Z",
+            "open_issues": 235,
             "owner": "snyk-labs",
             "repo": "java-goof",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -262,12 +388,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Contains all my research and content produced regarding the log4shell vulnerability",
+            "homepage": null,
             "id": 439387308,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-22T08:14:16Z",
+            "open_issues": 0,
             "owner": "righettod",
             "repo": "log4shell-analysis",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "development",
+              "log4j2",
+              "log4shell"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         },
@@ -278,12 +413,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tool to try to retrieve the java class used as dropper for the RCE in the context of log4shell vulnerability.",
+            "homepage": null,
             "id": 439697042,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-28T10:09:31Z",
+            "open_issues": 0,
             "owner": "righettod",
             "repo": "log4shell-payload-grabber",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "incident-response-tooling",
+              "java-8",
+              "log4shell"
+            ]
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
         }
@@ -292,15 +436,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:02.791Z",
+    "last_updated": "2026-08-29T04:50:57.693Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
+      "homepage": null,
       "id": 437892216,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-08-25T08:27:11Z",
+      "open_issues": 0,
       "owner": "snyk-labs",
       "repo": "awesome-log4shell",
-      "stars": 231
+      "stars": 231,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "java",
+        "log4j",
+        "log4shell",
+        "security",
+        "vulnerability"
+      ]
     },
     "original_repository_sha": "002100dfd9c778f52c9a1c957762e52e3a55ac0f",
     "enhanced_repository": "enhansome/enhansome-log4shell",
