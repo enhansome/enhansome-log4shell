@@ -104,7 +104,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Memes
 
-* [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/memes.md) ⭐ 231 | 🐛 0 | 📅 2022-08-25 - Sometimes we still need a smile.
+* [Log4J memes](https://github.com/snyk-labs/awesome-log4shell/blob/main/memes.md) ⭐ 231 | 🐛 1 | 📅 2022-08-25 - Sometimes we still need a smile.
 
 ## Contribute
 

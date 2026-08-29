@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:57.693Z",
+    "last_updated": "2026-08-29T14:59:57.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
@@ -445,7 +445,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-08-25T08:27:11Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "snyk-labs",
       "repo": "awesome-log4shell",
       "stars": 231,
