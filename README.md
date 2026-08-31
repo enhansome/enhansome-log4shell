@@ -94,7 +94,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 
 ## Examples & Proofs of Concept
 
-* [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) ⭐ 1,140 | 🐛 1 | 🌐 Java | 📅 2024-04-26 - Spring Boot web application vulnerable to Log4shell for easy reproduction.
+* [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) ⭐ 1,141 | 🐛 1 | 🌐 Java | 📅 2024-04-26 - Spring Boot web application vulnerable to Log4shell for easy reproduction.
 * [Log4Shell PoC](https://github.com/snyk-labs/java-goof) ⭐ 103 | 🐛 235 | 🌐 Java | 📅 2026-08-05 - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client. **NOTE**: It's part of the larger `java-goof` repo. Look at the `log4shell-goof` module.
 * [Analysis](https://github.com/righettod/log4shell-analysis) ⚠️ Archived of the Log4Shell vulnerability in addition to protection codes and unit tests.
 * [Tool](https://github.com/righettod/log4shell-payload-grabber) ⚠️ Archived to retrieve the payload from a server delivering Log4Shell payloads.
@@ -112,4 +112,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
