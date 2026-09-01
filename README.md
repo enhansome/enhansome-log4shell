@@ -52,7 +52,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Detection & Remediation
 
 * [Community Sourced Log4J Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface) ⭐ 2,070 | 🐛 44 | 📅 2021-12-13 - List of Log4j attack vectors in popular manufacturers' products.
-* [Bash IOC scanner](https://github.com/Neo23x0/Fenrir) ⭐ 776 | 🐛 1 | 🌐 Shell | 📅 2022-02-12 - Latest Fenrir supports checking for log4shell compromise and vulnerability.
+* [Bash IOC scanner](https://github.com/Neo23x0/Fenrir) ⭐ 775 | 🐛 1 | 🌐 Shell | 📅 2022-02-12 - Latest Fenrir supports checking for log4shell compromise and vulnerability.
 * [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) ⭐ 724 | 🐛 6 | 🌐 Python | 📅 2022-02-12 - Checks logs for exploitation attempts.
 * [log4j-detector](https://github.com/mergebase/log4j-detector) ⭐ 640 | 🐛 41 | 🌐 Java | 📅 2022-03-10 - Detects vulnerable log4j versions on your file-system within any application.
 * [Hotpatch tool](https://github.com/corretto/hotpatch-for-apache-log4j2) ⭐ 497 | 🐛 8 | 🌐 Java | 📅 2022-10-24 - JVM level hotpatch tool from AWS.
@@ -95,7 +95,7 @@ A curated list of awesome links related to the [Log4Shell](https://security.snyk
 ## Examples & Proofs of Concept
 
 * [Log4Shell vulnerable Java application](https://github.com/christophetd/log4shell-vulnerable-app) ⭐ 1,141 | 🐛 1 | 🌐 Java | 📅 2024-04-26 - Spring Boot web application vulnerable to Log4shell for easy reproduction.
-* [Log4Shell PoC](https://github.com/snyk-labs/java-goof) ⭐ 103 | 🐛 235 | 🌐 Java | 📅 2026-08-05 - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client. **NOTE**: It's part of the larger `java-goof` repo. Look at the `log4shell-goof` module.
+* [Log4Shell PoC](https://github.com/snyk-labs/java-goof) ⭐ 104 | 🐛 235 | 🌐 Java | 📅 2026-08-05 - Full stack demo including Java LDAP and HTTP servers and vulnerable Java client. **NOTE**: It's part of the larger `java-goof` repo. Look at the `log4shell-goof` module.
 * [Analysis](https://github.com/righettod/log4shell-analysis) ⚠️ Archived of the Log4Shell vulnerability in addition to protection codes and unit tests.
 * [Tool](https://github.com/righettod/log4shell-payload-grabber) ⚠️ Archived to retrieve the payload from a server delivering Log4Shell payloads.
 * [Various Log4Shell PoC](https://attackerkb.com/topics/in9sPR2Bzt/cve-2021-44228-log4shell/rapid7-analysis) - Analysis of various products with curl-based proof of concepts. Includes Struts2, Solr, VSphere, Druid, James, and more.
@@ -112,4 +112,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
