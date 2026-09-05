@@ -75,7 +75,7 @@
             "open_issues": 44,
             "owner": "YfryTchsGD",
             "repo": "Log4jAttackSurface",
-            "stars": 2070,
+            "stars": 2071,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:12:42.416Z",
+    "last_updated": "2026-09-05T13:23:03.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
