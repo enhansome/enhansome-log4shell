@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NCSC-NL",
             "repo": "log4shell",
-            "stars": 1882,
+            "stars": 1881,
             "topics": [
               "cve-2021-4104",
               "cve-2021-44228",
@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "cisagov",
             "repo": "log4j-affected-db",
-            "stars": 1119,
+            "stars": 1118,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:14:52.840Z",
+    "last_updated": "2026-09-14T16:17:48.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
