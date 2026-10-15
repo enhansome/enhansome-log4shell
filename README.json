@@ -353,7 +353,7 @@
             "open_issues": 1,
             "owner": "christophetd",
             "repo": "log4shell-vulnerable-app",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "log4shell"
             ]
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:59:48.293Z",
+    "last_updated": "2026-10-15T14:51:41.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
