@@ -75,7 +75,7 @@
             "open_issues": 44,
             "owner": "YfryTchsGD",
             "repo": "Log4jAttackSurface",
-            "stars": 2072,
+            "stars": 2071,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
@@ -372,11 +372,11 @@
             "id": 94013538,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-08-05T18:51:27Z",
-            "open_issues": 237,
+            "last_commit": "2026-10-26T10:06:44Z",
+            "open_issues": 238,
             "owner": "snyk-labs",
             "repo": "java-goof",
-            "stars": 107,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:02.791Z"
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:15:41.991Z",
+    "last_updated": "2026-10-26T16:43:06.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
