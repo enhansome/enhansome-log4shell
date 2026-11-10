@@ -138,7 +138,7 @@
             "open_issues": 41,
             "owner": "mergebase",
             "repo": "log4j-detector",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "cve-2021-44228",
               "cve-2021-45046",
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:38:05.248Z",
+    "last_updated": "2026-11-10T17:39:13.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
