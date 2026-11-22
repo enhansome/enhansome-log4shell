@@ -372,8 +372,8 @@
             "id": 94013538,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-05T11:38:41Z",
-            "open_issues": 240,
+            "last_commit": "2026-11-22T12:38:01Z",
+            "open_issues": 241,
             "owner": "snyk-labs",
             "repo": "java-goof",
             "stars": 105,
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:19:29.367Z",
+    "last_updated": "2026-11-22T17:44:37.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Log4Shell resources to help you stay informed and secure! 🔒",
